@@ -1,11 +1,11 @@
 {
-  "name": "cherry",
+  "id": "pext.theme.cherry",
+  "name": "Cherry",
   "developer": "Emily Lau",
   "description": "A red theme for Pext.",
   "homepage": "https://pext.hackerchick.me/",
   "license": "CC-BY-3.0",
   "git_urls": [
-    "https://github.com/Pext/pext_theme_cherry",
-    "https://notabug.org/Pext/pext_theme_cherry"
+    "https://github.com/Pext/pext_theme_cherry"
   ]
 }
